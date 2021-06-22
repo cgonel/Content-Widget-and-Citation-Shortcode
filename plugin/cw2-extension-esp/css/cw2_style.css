@@ -1,0 +1,12 @@
+.titre {
+    font-weight: bold;
+}
+
+.auteur {
+    font-style: italic;
+}
+
+span {
+    text-decoration: underline;
+}
+
